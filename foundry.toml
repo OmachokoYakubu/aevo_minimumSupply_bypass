@@ -1,0 +1,14 @@
+[profile.default]
+src      = "src"
+out      = "out"
+libs     = ["lib"]
+test     = "test"
+solc     = "0.8.25"
+
+remappings = [
+    "@openzeppelin/contracts/=/home/hackerdemy/glider-poc-redacted/glider-poc/lib/openzeppelin-contracts/contracts/",
+    "forge-std/=/home/hackerdemy/glider-poc-redacted/glider-poc/lib/forge-std/src/"
+]
+
+[rpc_endpoints]
+mainnet   = "${ETH_RPC_URL}"
