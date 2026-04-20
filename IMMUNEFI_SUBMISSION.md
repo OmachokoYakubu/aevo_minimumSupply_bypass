@@ -109,7 +109,7 @@ cd 9
 export ETH_RPC_URL="https://mainnet.infura.io/v3/<YOUR_KEY>"
 
 # Run all 5 PoC tests against the live deployed vault
-forge test --match-contract AevoForkExploit --fork-url "$ETH_RPC_URL" --fork-block-number 24900000 -vvv
+forge test --match-contract AevoForkExploit --fork-url "$ETH_RPC_URL" --fork-block-number 24900000 -vvvv
 ```
 
 ### Test Output
