@@ -1,6 +1,6 @@
 # Aevo minimumSupply Bypass — Critical Vulnerability PoC
 
-**Researcher**: Omachoko Yakubu  
+**Researcher**: Hackerdemy  
 **Date**: 20 April 2026  
 **Program**: Aevo / Ribbon Finance (Immunefi)  
 **Severity**: Critical — Direct Theft of User Funds  
