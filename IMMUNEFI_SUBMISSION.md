@@ -103,7 +103,7 @@ The vulnerability exists in the base `RibbonVault` contract, meaning all legacy 
 
 ```bash
 git clone https://github.com/OmachokoYakubu/aevo_minimumSupply_bypass
-cd 9
+cd aevo_minimumSupply_bypass
 
 # Set your Ethereum mainnet RPC
 export ETH_RPC_URL="https://mainnet.infura.io/v3/<YOUR_KEY>"
